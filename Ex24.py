@@ -1,0 +1,1 @@
+# InventWithPython Exercise number 24(print(Ex24 done))
